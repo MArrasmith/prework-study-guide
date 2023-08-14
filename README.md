@@ -3,7 +3,6 @@
 ## A study guide for course pre-work
 
 This is my very first self developed web page. It has taken me several months of studying in order to finally deploy, all in preparation for the start of class in which I will be learning more in depth the necessary tools to become a full time web developer!
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 ## Installation
 
@@ -11,11 +10,11 @@ N/A
 
 ## Usage
 
-This is a study guide designed to help with the basics of coding using git,HTML,CSS,and JavaScript
+This is a study guide designed to help with the basics of coding using git, HTML, CSS, and JavaScript
 
 ## Credits
 
-The Ohio State University Coding Bootcamp training materials
+N/A
 
 ## License
 
